@@ -5,10 +5,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Hello! I am Rosy :)</p>
-
-        <a href="/hackathon.pdf" target="_blank">
-          OLA
-        </a>
+        <div style={{ display: "none" }}>
+          <a href="/hackathon.pdf" target="_blank">
+            OLA
+          </a>
+        </div>
       </header>
     </div>
   );
