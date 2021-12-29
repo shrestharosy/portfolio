@@ -7,7 +7,13 @@ function App() {
         <p>Hello! I am Rosy :)</p>
         <div style={{ display: "none" }}>
           <a href="/hackathon.pdf" target="_blank">
-            OLA
+            hackathon
+          </a>
+          <a href="/nascoit.pdf" target="_blank">
+            nascoit
+          </a>
+          <a href="/award.pdf" target="_blank">
+            scholar award
           </a>
         </div>
       </header>
